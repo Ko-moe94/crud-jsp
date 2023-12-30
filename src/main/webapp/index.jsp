@@ -7,7 +7,7 @@
 <title>JSP CURD</title>
 </head>
 <body>
-	<h1>JSP CURD Example</h1>
+	<h1>JSP CURD Example First Program</h1>
 	<a href="userform.jsp">Add User</a>
 	<a href="viewuser.jsp">View Users</a>
 </body>
